@@ -1,0 +1,16 @@
+{
+  "name": "redis-pubsub-inspector",
+  "version": "1.0.0",
+  "description": "Script for logging out pubsub messages on a redis instance",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "coffee-script": "^1.9.2",
+    "hiredis": "^0.3.0",
+    "redis": "^0.12.1"
+  }
+}
